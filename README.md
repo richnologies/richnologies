@@ -16,8 +16,8 @@ I'm a Senior Web Applications Developer at [PSI](https://www.psi-mobile.com/) we
 - 💬 Ask me about Angular, Typescript, Payments, Stripe, Node, Mongo
 - 📫 How to reach me: [@richnologies](https://twitter.com/richnologies)
 
+<img height="28" src="./stripe_partner_badge_community_blurple.png"/>
+
 ![Ricardo Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=richnologies&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Ricardo Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=richnologies&layout=compact&theme=radical)
-
-<img height="35" src="./stripe_partner_badge_community_blurple.png"/>
