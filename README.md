@@ -1,5 +1,7 @@
 ### Hi there, I'm [Ricardo Sanchez!](https://ricardosanchez.dev) 👋
 
+I'm a Senior Web Applications Developer at [PSI](https://www.psi-mobile.com/) were we help utility and telco companies sell in an ultra-competitive space. I'm also the creator of [ngx-stripe](https://github.com/ngx-stripe) and a Stripe Community Expert for Angular. 
+
 <p>
 <a href="https://twitter.com/richnologies">
    <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -17,3 +19,5 @@
 ![Ricardo Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=richnologies&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Ricardo Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=richnologies&layout=compact&theme=radical)
+
+<img height="35" src="./stripe_partner_badge_community_blurple.png"/>
