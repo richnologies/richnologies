@@ -19,7 +19,3 @@ I'm a Senior Web Applications Developer at [PSI](https://www.psi-mobile.com/) we
 <a href="https://stripe.com/docs/libraries#community-libraries">
    <img height="28" src="./stripe_partner_badge_community_blurple.png"/>
 </a>
-
-![Ricardo Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=richnologies&show_icons=true&include_all_commits=true&theme=radical)
-
-![Ricardo Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=richnologies&layout=compact&theme=radical)
