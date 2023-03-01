@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ricardo Sanchez!](https://ricardosanchez.dev) 👋
 
-I'm a Senior Web Applications Developer at [PSI](https://www.psi-mobile.com/) were we help utility and telco companies sell in an ultra-competitive space. I'm also the creator of [ngx-stripe](https://github.com/richnologies/ngx-stripe) and a Stripe Community Expert for Angular. 
+I'm a Senior Web Applications Developer at [PSI](https://www.psi-mobile.com/) were we help utility and telco companies sell in an ultra-competitive space. I'm also the creator of [ngx-stripe](https://github.com/richnologies/ngx-stripe). 
 
 <p>
 <a href="https://twitter.com/richnologies">
@@ -15,7 +15,3 @@ I'm a Senior Web Applications Developer at [PSI](https://www.psi-mobile.com/) we
 - 🔭 I’m currently working on [ngx-stripe](https://github.com/richnologies/ngx-stripe)
 - 💬 Ask me about Angular, Typescript, Payments, Stripe, Node, Mongo
 - 📫 How to reach me: [@richnologies](https://twitter.com/richnologies)
-
-<a href="https://stripe.com/docs/libraries#community-libraries">
-   <img height="28" src="./stripe_partner_badge_community_blurple.png"/>
-</a>
